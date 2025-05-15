@@ -13,17 +13,8 @@ This repository contains implementations of various Prolog assignments covering 
 
 ### 📍 Day 4: List Operations / Logic Gates (day4.pl)
 
-### 📍 Day 5: 
+### 📍 Day 5: Sorting / Graph Searching (day5.pl)
 
-### 📍 Day 6: 
-
-### 📍 Day 7: 
-
-### 📍 Day 8: 
-
-### 📍 Day 9:
-
-### 📍 Day 10: 
 
 ## 🛠️ Technologies Used
 - **Prolog** (SWI-Prolog recommended)
@@ -50,11 +41,6 @@ prolog-lab/
 │── day3.pl
 │── day4.pl
 │── day5.pl
-│── day6.pl
-│── day7.pl
-│── day8.pl
-│── day9.pl
-│── day10.pl
 │── README.md
 ```
 
@@ -62,5 +48,6 @@ prolog-lab/
 - [SWI-Prolog Documentation](https://www.swi-prolog.org/) 📚
 - [Prolog Tutorials](https://www.learnprolognow.org/) 🎓
 
-## 📝 Author
-[Anidipta Pal](https://github.com/Anidipta)
+## 📝 Authors
+- [Anidipta Pal (Owner)](https://github.com/Anidipta)
+- [Ananyo DG](https://github.com/CodenWizFreak)
